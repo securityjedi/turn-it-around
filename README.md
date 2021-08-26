@@ -59,7 +59,7 @@ The project will be developed across 2 phases.
 * Implement the chatbot
 * Integrate the eCommerce Store
 * Implement the training module
-* 
+
 
 <!-- Built With -->
 ### Built With
