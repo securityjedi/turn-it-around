@@ -66,3 +66,11 @@ The project will be developed across 2 phases.
 ## Roadmap
 
 See the [open issues](https://github.com/securityjedi/turn-it-around/issues) for a list of proposed features (and known issues). You can also view the [Project Board](https://github.com/securityjedi/turn-it-around/projects/1) here.
+
+
+<!-- CONTACT -->
+## Contact
+
+Jeren -  jeren@email[.]com
+<br />
+Project Link: [Turn It Around](https://github.com/securityjedi/testing)
