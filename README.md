@@ -81,4 +81,4 @@ See the [open issues](https://github.com/securityjedi/turn-it-around/issues) for
 
 Jeren -  jeren@email[.]com
 <br />
-Project Link: [Turn It Around](https://github.com/securityjedi/testing)
+Project Link: [Turn It Around](https://github.com/securityjedi/turn-it-around)
