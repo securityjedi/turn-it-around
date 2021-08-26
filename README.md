@@ -3,7 +3,7 @@
     <img src="" alt=""/>
   </a>
 
-  <h3 align="center">Project - TURN IT AROUND</h3>
+  <h3 align="center">Project - Turn It Around</h3>
   <p align="center">
     <a href="https://docs.google.com/document/d/1dAqfzBWAOXvcEE7IM3vBf-UOVCQ7I_5RtIqDZbRE6v4/edit?usp=sharing"><strong>Project Brief »</strong></a>
     <br />
