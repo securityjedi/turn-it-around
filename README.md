@@ -59,7 +59,15 @@ The project will be developed across 2 phases.
 * Implement the chatbot
 * Integrate the eCommerce Store
 * Implement the training module
+* 
 
+<!-- Built With -->
+### Built With
+
+This section lists any additional plugins or WooCommerce Extensions that are integrated into the project. 
+* [Donations](https://wordpress.com/support/wordpress-editor/blocks/donations/)
+* [Memberships](https://woocommerce.com/products/woocommerce-memberships/)
+* [Bookings](https://woocommerce.com/products/woocommerce-bookings/)
 
 
 <!-- ROADMAP -->
