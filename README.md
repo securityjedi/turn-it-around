@@ -41,3 +41,10 @@ The project will be developed across 2 phases.
 * Implement the chatbot
 * Integrate the eCommerce Store
 * Implement the training module
+
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+See the [open issues](https://github.com/securityjedi/turn-it-around/issues) for a list of proposed features (and known issues). You can also view the [Project Board](https://github.com/securityjedi/turn-it-around/projects/1) here.
