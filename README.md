@@ -11,7 +11,7 @@
     <a href="https://github.com/securityjedi/turn-it-around/issues">View Issues</a>
     ·
     <a href="https://github.com/securityjedi/turn-it-around/projects/1">View Project Board</a>
-    .
+    ·
     <a href="">View Demo</a>
   </p>
 </p>
@@ -24,9 +24,9 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Phase 1</a></li>
-        <li><a href="#built-with">Phase 2</a></li>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#phase-1">Phase 1</a></li>
+        <li><a href="#phase-2">Phase 2</a></li>
+        <li><a href="#additional-components">Additional Components</a></li>
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -61,8 +61,8 @@ The project will be developed across 2 phases.
 * Implement the training module
 
 
-<!-- Built With -->
-### Built With
+<!-- Additional Components -->
+### Additional Components
 
 This section lists any additional plugins or WooCommerce Extensions that are integrated into the project. 
 * [Donations](https://wordpress.com/support/wordpress-editor/blocks/donations/)
